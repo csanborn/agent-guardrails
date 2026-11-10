@@ -1,0 +1,13 @@
+{
+  "name": "agent-guardrails",
+  "version": "0.1.0",
+  "description": "Stops coding agents from bypassing linters, skipping git hooks, force pushing main and finishing without tests. Adds spec-first and pr-ready skills.",
+  "author": {
+    "name": "Chris Sanborn",
+    "url": "https://github.com/csanborn"
+  },
+  "homepage": "https://github.com/csanborn/agent-guardrails",
+  "repository": "https://github.com/csanborn/agent-guardrails",
+  "license": "MIT",
+  "keywords": ["guardrails", "hooks", "lint", "git", "testing", "code-quality"]
+}

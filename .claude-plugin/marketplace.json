@@ -1,0 +1,15 @@
+{
+  "name": "agent-guardrails",
+  "description": "Guardrail hooks and skills that keep coding agents inside common team rules.",
+  "owner": {
+    "name": "Chris Sanborn",
+    "url": "https://github.com/csanborn"
+  },
+  "plugins": [
+    {
+      "name": "agent-guardrails",
+      "source": "./",
+      "description": "Blocks lint bypass comments, --no-verify, force pushes to main and rm -rf on the repo or home, and reminds the agent to add tests."
+    }
+  ]
+}
